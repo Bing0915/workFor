@@ -265,7 +265,8 @@
     "husky": "^4.2.5"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "commit": "commit"
   },
   "repository": {
     "type": "git",
