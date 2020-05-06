@@ -261,6 +261,7 @@
     "yargs-parser": "^10.1.0"
   },
   "devDependencies": {
+    "@commitlint/travis-cli": "^8.3.5",
     "husky": "^4.2.5"
   },
   "scripts": {
