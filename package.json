@@ -258,7 +258,7 @@
     "validate-npm-package-license": "^3.0.4",
     "wrappy": "^1.0.2",
     "xtend": "^4.0.2",
-    "yargs-parser": "^10.1.0"
+    "yargs-parser": "^20.0.0"
   },
   "devDependencies": {
     "@commitlint/travis-cli": "^8.3.5",
